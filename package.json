@@ -43,7 +43,7 @@
 }
   
 
-// ✅ FIXED (Comma added)
+
 "devDependencies": {
   "vite": "^8.3.0",
   "esbuild": "^0.28.0"
