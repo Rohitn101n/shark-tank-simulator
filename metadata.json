@@ -1,0 +1,6 @@
+{
+  "name": "Shark Tank Simulator",
+  "description": "Step into the Tank! Pitch your business idea to Mark Cuban, Mr. Wonderful, Lori Greiner, Daymond John, and Barbara Corcoran with real-time valuation analysis and Shark brawls.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
